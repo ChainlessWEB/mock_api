@@ -5,7 +5,7 @@
     "createdAt": "date"
   },
   "History": {
-    "status": "int",
+    "serverStatus": "int",
     "createdAt": "date"
   }
 }
