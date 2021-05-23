@@ -1,0 +1,7 @@
+{
+  "Server": {
+    "serverName": "string",
+    "serverStatus": "int",
+    "createdAt": "date"
+  }
+}
