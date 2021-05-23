@@ -3,5 +3,9 @@
     "serverName": "string",
     "serverStatus": "int",
     "createdAt": "date"
+  },
+  "History": {
+    "status": "int",
+    "createdAt": "date"
   }
 }
